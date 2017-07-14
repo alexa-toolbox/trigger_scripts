@@ -7,7 +7,7 @@ $ vagrant init ubuntu/trusty64
 ```
 
 Add shared folder
-  config.vm.synced_folder "./ROOT", "/ROOT"
+   config.vm.synced_folder "./ROOT", "/ROOT"
 
 Create a virtual python environment
 ```bash
