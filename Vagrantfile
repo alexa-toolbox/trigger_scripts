@@ -1,5 +1,3 @@
-# -*- mode: ruby -*-
-
 ENV['VAGRANT_DEFAULT_PROVIDER'] = 'virtualbox'
 
 Vagrant.configure("2") do |config|
