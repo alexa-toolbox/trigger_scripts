@@ -1,0 +1,3 @@
+#!/bin/bash
+
+virtualenv alexa --python=python2 --no-setuptools --no-wheel
